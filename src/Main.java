@@ -128,5 +128,6 @@ System.out.println("Кристина после повышения получа�
 System.out.println("Разница у Маши составила "+difMasha);
 System.out.println("Разница у Дениса составила "+difDenis);
 System.out.println("Разница у КРистины составила "+difKristina);
+System.out.println();
     }
 }
